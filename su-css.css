@@ -1,0 +1,29 @@
+body{
+    background-color:#E3CAA1;
+}
+div{
+    border:50px;
+    border-radius: 5px;
+    background-color: #9ac797;
+    background: url("timg4.jpg");
+    position: relative;
+    background-size: 100% auto;
+    width: 65%;
+    height:100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    font-size: 25px;
+}
+h4{
+    font-size:15px;
+    padding-left:26px;
+}
+form{
+    margin: 0 10px;
+}
+h3,h4{
+    margin-left: 10px;
+    margin-right: 10px;
+}
